@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c9dc75f7cffb004caa94e35a11b3d66, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectData:
+  - <Name>k__BackingField: Oak Tree
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Mana_Cost>k__BackingField: 1
+    <Wood_Cost>k__BackingField: 0
+    <Steel_Cost>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 5652275597830108636, guid: c7934f8204c01ee4da4a73b20b204cf9,
+      type: 3}
+  - <Name>k__BackingField: Ferrostelm Tree
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Mana_Cost>k__BackingField: 2
+    <Wood_Cost>k__BackingField: 0
+    <Steel_Cost>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 7065292098284579610, guid: bd6819df5c22c6f45bb562e5b5fb8434,
+      type: 3}
+  - <Name>k__BackingField: Plant Crafter
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Mana_Cost>k__BackingField: 0
+    <Wood_Cost>k__BackingField: 30
+    <Steel_Cost>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 4320168260694230729, guid: fa9b9a9e7f5510140875e18dfc7d39d4,
+      type: 3}
+  - <Name>k__BackingField: Storage Hall
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 3, y: 2}
+    <Mana_Cost>k__BackingField: 0
+    <Wood_Cost>k__BackingField: 20
+    <Steel_Cost>k__BackingField: 10
+    <Prefab>k__BackingField: {fileID: 1238746038290605479, guid: 023e1a58abfe1754d8ba7e1907815f1d,
+      type: 3}
