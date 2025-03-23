@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{32C3BDE6-E125-3128-82C1-25D0441455A3}</ProjectGuid>
+    <ProjectGuid>{68791FCA-1BA9-E4EE-936B-0BA9C5C97FAC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,7 +55,7 @@
     <UnityVersion>2022.3.9f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\UNITY\2022.3.9f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\UNITY\2022.3.9f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -71,7 +71,6 @@
     <Compile Include="Assets\Building Mats\3D Assets &amp; Materials\UI\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\Building Mats\3D Assets &amp; Materials\UI\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\Building Mats\3D Assets &amp; Materials\UI\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
-    <Compile Include="Assets\Scripts\Building System\MouseInput.cs" />
     <Compile Include="Assets\Scripts\Ui\DisplaySteel.cs" />
     <Compile Include="Assets\Building Mats\3D Assets &amp; Materials\UI\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Building Mats\3D Assets &amp; Materials\UI\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
@@ -98,6 +97,7 @@
     <Compile Include="Assets\Scripts\Data\Database System\ObjectDatabase.cs" />
     <Compile Include="Assets\Scripts\Plant\PlantGrowth.cs" />
     <Compile Include="Assets\Building Mats\3D Assets &amp; Materials\UI\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\Building Mats\Building System\MouseInput.cs" />
     <Compile Include="Assets\Scripts\Data\Database System\GridData.cs" />
     <Compile Include="Assets\MakeSureTutorialDoesntDoubleOpen.cs" />
     <Compile Include="Assets\Building Mats\3D Assets &amp; Materials\UI\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
@@ -118,9 +118,9 @@
     <Compile Include="Assets\Scripts\Data\Milestone system\Allow after Milestone.cs" />
     <Compile Include="Assets\Scripts\Ui\Quit.cs" />
     <Compile Include="Assets\Scripts\Touched KillBox.cs" />
-    <Compile Include="Assets\Scripts\Building System\PlacementSystem.cs" />
     <Compile Include="Assets\Building Mats\3D Assets &amp; Materials\UI\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\ProveRead.cs" />
+    <Compile Include="Assets\Building Mats\Building System\PlacementSystem.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerStats.cs" />
   </ItemGroup>
   <ItemGroup>
